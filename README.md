@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cmcbride144
 - 👀 I’m interested in Natural Language Processing, Data Science and Machine Learning and Math and Statistics (although I am not good at it)
-- 🌱 I’m currently learning Mathematics for Machine Learning Approached
+- 🌱 I’m currently learning Mathematics for Machine Learning Approaches
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
