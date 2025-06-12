@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @cmcbride144
-- 👀 I’m interested in Natural Language Processing, Data Science and Machine Learning, and Math and Statistics
-- 🌱 I’m currently learning Mathematics for Machine Learning Approaches, Logistics Regression and Feature Selection and Dimensionality Reduction
+- 👋 Hi, I’m Chelsea!
+- 👀 My interests include Natural Language Processing, Data Science and Machine Learning, and Math and Statistics
+- 🌱 I’m currently learning Mathematics for Machine Learning Approaches, PyTorch for Deep Learning, and Prompt Engineering for LLMs.
 
 
 <!---
