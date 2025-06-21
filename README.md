@@ -1,5 +1,5 @@
 - 👋 Hello, I’m Chelsea!
-- 👀 My interests include Natural Language Processing, Data Science and Machine Learning, and Math and Statistics
+- 👀 My interests include Natural Language Processing, Data Science, Machine Learning, Math, and Statistics
 - 📚 I’m currently learning Mathematics for Machine Learning Approaches, PyTorch for Deep Learning, and Prompt Engineering for LLMs.
 
 <!---
